@@ -1,0 +1,22 @@
+html{
+    scroll-behavior: smooth;
+}
+*::after, *::before{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+img{
+    vertical-align: middle;
+}
+
+ul,ol{
+    margin: 0;
+    list-style: none;
+    padding-left: 0;
+}
